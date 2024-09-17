@@ -2,7 +2,7 @@
 ## for TShock5 by [FrankV22](https://github.com/itsFrankV22)
 
 > [!NOTE]
-> Si hablas otro idioma porfa revisa [README_SPANISH.md]()
+> Si hablas otro idioma porfa revisa [README_SPANISH.md](https://github.com/itsFrankV22/AntiVPN/blob/main/README_SPANISH.md)
 
 This Plugin prevents players from entering the server with VPN and other types of proxies
 
