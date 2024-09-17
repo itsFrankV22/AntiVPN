@@ -1,5 +1,5 @@
 # AntiVPN
-## para TShock5 by [FrankV22](https://github.com/itsFrankV22)
+## for TShock5 by [FrankV22](https://github.com/itsFrankV22)
 
 > [!NOTE]
 > Si hablas otro idioma porfa revisa [README_SPANISH.md]()
