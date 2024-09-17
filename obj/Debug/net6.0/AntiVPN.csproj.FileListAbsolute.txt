@@ -1,0 +1,13 @@
+C:\Users\FrankV22\source\repos\AntiVPN\AntiVPN\bin\Debug\net6.0\HttpServer.dll
+C:\Users\FrankV22\source\repos\AntiVPN\AntiVPN\bin\Debug\net6.0\AntiVPN.deps.json
+C:\Users\FrankV22\source\repos\AntiVPN\AntiVPN\bin\Debug\net6.0\AntiVPN.dll
+C:\Users\FrankV22\source\repos\AntiVPN\AntiVPN\bin\Debug\net6.0\AntiVPN.pdb
+C:\Users\FrankV22\source\repos\AntiVPN\AntiVPN\obj\Debug\net6.0\AntiVPN.csproj.AssemblyReference.cache
+C:\Users\FrankV22\source\repos\AntiVPN\AntiVPN\obj\Debug\net6.0\AntiVPN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FrankV22\source\repos\AntiVPN\AntiVPN\obj\Debug\net6.0\AntiVPN.AssemblyInfoInputs.cache
+C:\Users\FrankV22\source\repos\AntiVPN\AntiVPN\obj\Debug\net6.0\AntiVPN.AssemblyInfo.cs
+C:\Users\FrankV22\source\repos\AntiVPN\AntiVPN\obj\Debug\net6.0\AntiVPN.csproj.CoreCompileInputs.cache
+C:\Users\FrankV22\source\repos\AntiVPN\AntiVPN\obj\Debug\net6.0\AntiVPN.dll
+C:\Users\FrankV22\source\repos\AntiVPN\AntiVPN\obj\Debug\net6.0\refint\AntiVPN.dll
+C:\Users\FrankV22\source\repos\AntiVPN\AntiVPN\obj\Debug\net6.0\AntiVPN.pdb
+C:\Users\FrankV22\source\repos\AntiVPN\AntiVPN\obj\Debug\net6.0\ref\AntiVPN.dll
