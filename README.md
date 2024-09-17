@@ -8,7 +8,8 @@ This Plugin prevents players from entering the server with VPN and other types o
 
 To change the player ban messages when using VPN, modify the following section
 
-```var result = await message.Result.Task;
+```csharp
+var result = await message.Result.Task;
 if (result == "Y")
 {
     Console.WriteLine($"It has been detected that {player.Name} is using a proxy and has been kicked.");
